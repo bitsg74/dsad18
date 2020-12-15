@@ -34,7 +34,8 @@ def hallOfFame(StudentHashRecords):
   (Only students who graduated should be considered. 
   Calculate the applicable year range accordingly). 
   The trigger can be read from the file promptsPS18.txt. 
-  The input can be identified with the tag --> hallOfFame:
+  The input can be identified with the tag mentioned below -
+  hallOfFame:
   """
   pass
 
